@@ -1,13 +1,13 @@
 ## _Introducing myself 👾_
 ---
 
-* C/C++ programmer
-* Linux, cinammon desktop
-* Coding 4 fun
-
 <a href="https://imgur.com/SAyiu7A">
   <img src="https://i.imgur.com/SAyiu7A.png" title="source: imgur.com"/>
 </a>
+
+* C/C++ programmer
+* Linux, cinammon desktop
+* Coding 4 fun
  
 ```html
 <--! Who am I
