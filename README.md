@@ -23,7 +23,7 @@ _You can reach me by my e-mail: <natanaelvieira1@outlook.com> or Twitter by: [@N
 ### [Fourth D1mension](https://en.wikipedia.org/wiki/Four-dimensional_space)
 ---
 <details> 
-    <summary>sh0w me the 4 d1mension</summary> 
+    <summary>sh0w me the 4th d1mension</summary> 
       <h3>tess3ract.gif</h3>
     <a href="https://imgur.com/aV9xOBu">
       <img src="https://i.imgur.com/aV9xOBu.gif" title="source: imgur.com" height="300" width="300"/>
