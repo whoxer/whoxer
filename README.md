@@ -14,7 +14,7 @@
 
  Hi, I’m @Wh0xer, I love to code and create things that I can use in a productive and fun way
  I’m interested in everything that I can need to use on my own projects
- I’m currently learning C++!!!!!
+ I’m currently learning Rust🦀!!!!!
 -->
 ```
 
