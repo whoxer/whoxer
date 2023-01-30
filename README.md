@@ -14,7 +14,7 @@
 -->
 ```
 
-_You can reach me by my e-mail: <natanaelvieira1@outlook.com> or Twitter by: [@Natanaelv1eira](https://twitter.com/Natanaelv1eira) 👾_
+_You can reach me by my e-mail: <natanaelvsant@gmail.com> or Twitter by: [@Natanaelv1eira](https://twitter.com/Natanaelv1eira) 👾_
 
 ### [Fourth D1mension](https://en.wikipedia.org/wiki/Four-dimensional_space)
 ---
