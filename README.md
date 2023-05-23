@@ -2,7 +2,7 @@
 
 ```c
 /*
-                    -`                    whoxer@arch-wox 
+                   -`                    whoxer@arch-wox 
                   .o+`                   --------------- 
                  `ooo/                   OS: Arch Linux x86_64 
                 `+oooo:                  Host: S14BW01 1.20.X 
