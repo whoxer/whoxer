@@ -30,7 +30,7 @@
  <ul>
   <li>e-mail: natanaelvsant@gmail.com</li>
   <li>
-   <a rel="me" href="https://mastodon.social/@wh0x3r">Mastodon</a>
+   <a href="https://mastodon.social/@wh0x3r">Mastodon</a>
   </li>
  </ul>
 </details>
