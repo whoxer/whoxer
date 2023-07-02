@@ -30,10 +30,7 @@
  <ul>
   <li>e-mail: natanaelvsant@gmail.com</li>
   <li>
-   instagram: <a href="https://instagram.com/natanaelv1eira">whoxer</a>
-  </li>
-  <li> 
-   twitter: <a href="https://twitter.com/Natanaelv1eira">Natanaelv1eira</a>
+   <a rel="me" href="https://mastodon.social/@wh0x3r">Mastodon</a>
   </li>
  </ul>
 </details>
