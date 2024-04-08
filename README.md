@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm whoxer</h1>
 <h3 align="center">A computer enthusiast. I love technology and create things for fun.</h3>
 
-- 🔭 I’m currently working on [**Geometricpp**](https://github.com/whoxer/geometricpp)
-
-- 🌱 I’m currently learning **AI development, Web Development and Game development with Godot Engine**
-
-- 📝 I regularly write articles on [https://whoxer.github.io](https://whoxer.github.io)
+- 📝 I regularly write articles on [whoxer.github.io](https://whoxer.github.io)
 
 - 💬 Ask me about **C, C++, HTML, CSS, Python**
 
